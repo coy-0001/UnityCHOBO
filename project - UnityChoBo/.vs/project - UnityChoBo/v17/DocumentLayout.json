@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project - UnityChoBo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF91998-88DF-CEDB-D3E0-B919B7AD665C}|Assembly-CSharp-Editor.csproj|c:\\users\\\uC5FC\uC131\uD658\\documents\\github\\unitychobo\\project - unitychobo\\assets\\2d-extras-2.2.2\\editor\\unity.2d.tilemap.extras.editor.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EEF91998-88DF-CEDB-D3E0-B919B7AD665C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\2d-extras-2.2.2\\editor\\unity.2d.tilemap.extras.editor.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unity.2D.Tilemap.Extras.Editor.asmdef",
+              "DocumentMoniker": "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project - UnityChoBo\\Assets\\2d-extras-2.2.2\\Editor\\Unity.2D.Tilemap.Extras.Editor.asmdef",
+              "RelativeDocumentMoniker": "Assets\\2d-extras-2.2.2\\Editor\\Unity.2D.Tilemap.Extras.Editor.asmdef",
+              "ToolTip": "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project - UnityChoBo\\Assets\\2d-extras-2.2.2\\Editor\\Unity.2D.Tilemap.Extras.Editor.asmdef",
+              "RelativeToolTip": "Assets\\2d-extras-2.2.2\\Editor\\Unity.2D.Tilemap.Extras.Editor.asmdef",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2024-05-14T06:34:16.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

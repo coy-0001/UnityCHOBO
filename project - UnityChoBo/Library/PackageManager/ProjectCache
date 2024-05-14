@@ -6,8 +6,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638499669984184310
-    m_Hash: 1039360616
+      ticks: 638512676900652220
+    m_Hash: 650741090
   m_LockFileStatus:
     m_FilePath: "C:/Users/\uC5FC\uC131\uD658/Documents/GitHub/UnityCHOBO/project
       - UnityChoBo/Packages/packages-lock.json"
@@ -15,8 +15,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638499670305165774
-    m_Hash: 1130388489
+      ticks: 638512676900714768
+    m_Hash: 529843613
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -25,6 +25,384 @@ m_ProjectPath: "C:/Users/\uC5FC\uC131\uD658/Documents/GitHub/UnityCHOBO/project 
   UnityChoBo/Packages"
 m_EditorVersion: 2023.2.14f1 (eeca29774eb5)
 m_ResolvedPackages:
+- packageId: com.unity.2d.pixel-perfect@5.0.3
+  testable: 0
+  isDirectDependency: 1
+  version: 5.0.3
+  source: 1
+  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
+    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.pixel-perfect@5.0.3"
+  assetPath: Packages/com.unity.2d.pixel-perfect
+  name: com.unity.2d.pixel-perfect
+  displayName: 2D Pixel Perfect
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: tool
+  description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
+    which ensures your pixel art remains crisp and clear at different resolutions,
+    and stable in motion.
+
+
+    It is a single component that makes all the calculations
+    needed to scale the viewport with resolution changes, removing the hassle from
+    the user. The user can adjust the definition of the pixel art rendered within
+    the camera viewport through the component settings, as well preview any changes
+    immediately in Game view by using the Run in Edit Mode feature.'
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview
+    - 1.0.1-preview
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 4.0.0
+    - 4.0.1
+    - 5.0.0-pre.1
+    - 5.0.0-pre.2
+    - 5.0.0
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    compatible:
+    - 5.0.3
+    recommended: 5.0.3
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - pixel
+  - perfect
+  - 2D
+  - sprite
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638023910590000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/2d.git
+    revision: 6dea8ac5bd6953acd64f1ac9d470912954b0c015
+    path: 
+  unityLifecycle:
+    version: 5.0.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
+    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0"
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
+    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0"
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  assetStore:
+    productId: 
+- packageId: com.unity.2d.tilemap.extras@https://github.com/Unity-Technologies/2d-extras.git#master
+  testable: 0
+  isDirectDependency: 1
+  version: 2.2.5
+  source: 5
+  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
+    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.tilemap.extras@8de698ac55"
+  assetPath: Packages/com.unity.2d.tilemap.extras
+  name: com.unity.2d.tilemap.extras
+  displayName: 2D Tilemap Extras
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: '2D Tilemap Extras is a package that contains extra scripts for use
+    with 2D Tilemap features in Unity. These include custom Tiles and Brushes for
+    the Tilemap feature.
+
+
+    The following are included in the package:
+
+    Brushes:
+    GameObject Brush, Group Brush, Line Brush, Random Brush
+
+    Tiles: Animated
+    Tile, Rule Tile, Rule Override Tile
+
+    Other: Grid Information, Custom Rules
+    for Rule Tile'
+  errors: []
+  versions:
+    all:
+    - 1.5.0-preview
+    - 1.6.0-preview.1
+    - 1.6.1-preview
+    - 1.6.2-preview
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.7.0-preview
+    - 1.8.0-preview
+    - 1.8.1-preview
+    - 1.8.2-preview
+    - 1.8.3-preview
+    - 1.8.4-preview
+    - 2.0.0-pre.1
+    - 2.0.0-pre.2
+    - 2.0.0
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.2.6
+    - 2.2.7
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.0
+    - 4.0.1
+    - 4.0.2
+    compatible:
+    - 4.0.2
+    recommended: 4.0.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.2d.tilemap
+    version: 1.0.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.hierarchycore
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 2.0.0
+  keywords:
+  - 2d
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 4.0.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 8de698ac55b7ed01ec95a43e714c6358505b8110
+    revision: master
+  upmReserved: 
+  assetStore:
+    productId: 
 - packageId: com.unity.collab-proxy@2.3.1
   testable: 0
   isDirectDependency: 1
@@ -190,134 +568,6 @@ m_ResolvedPackages:
     date format was not recognized as a valid DateTime.\n- Fixed finding changes
     operation being firing constantly.\n- Removed obsolete content in package documentation.\n-
     Fixed typo in locks tooltip."}'
-  assetStore:
-    productId: 
-- packageId: com.unity.feature.2d@2.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 2.0.0
-  source: 2
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.feature.2d@2.0.0"
-  assetPath: Packages/com.unity.feature.2d
-  name: com.unity.feature.2d
-  displayName: 2D
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: feature
-  description: Import images including multi-layered Photoshop files as Sprites and
-    configure them to create 2D games. Create freeform, tile-based and spline-based
-    2D game worlds. Create frame-by-frame and bone-based animated characters. Integrated
-    with 2D physics to support simulations with colliders and joints. Supports the
-    needs of a range of 2D art styles, including pixel art.
-  errors: []
-  versions:
-    all:
-    - 2.0.0
-    compatible:
-    - 2.0.0
-    recommended: 2.0.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.2d.animation
-    version: default
-  - name: com.unity.2d.pixel-perfect
-    version: default
-  - name: com.unity.2d.psdimporter
-    version: default
-  - name: com.unity.2d.sprite
-    version: default
-  - name: com.unity.2d.spriteshape
-    version: default
-  - name: com.unity.2d.tilemap
-    version: default
-  - name: com.unity.2d.tilemap.extras
-    version: default
-  - name: com.unity.2d.aseprite
-    version: default
-  resolvedDependencies:
-  - name: com.unity.2d.animation
-    version: 10.1.1
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.12
-  - name: com.unity.collections
-    version: 1.2.4
-  - name: com.unity.test-framework
-    version: 1.3.9
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.2d.pixel-perfect
-    version: 5.0.3
-  - name: com.unity.2d.psdimporter
-    version: 9.0.2
-  - name: com.unity.2d.spriteshape
-    version: 10.0.3
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.2d.tilemap.extras
-    version: 4.0.2
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.2d.aseprite
-    version: 1.1.1
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 2.0.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"quickstart":"https://docs.unity3d.com/2021.2/Documentation/Manual/2DFeature.html"}'
   assetStore:
     productId: 
 - packageId: com.unity.ide.rider@3.0.28
@@ -533,148 +783,6 @@ m_ResolvedPackages:
     Prevent circular dependency errors with SDK-Style projects."}'
   assetStore:
     productId: 
-- packageId: com.unity.test-framework@1.3.9
-  testable: 0
-  isDirectDependency: 1
-  version: 1.3.9
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.test-framework@1.3.9"
-  assetPath: Packages/com.unity.test-framework
-  name: com.unity.test-framework
-  displayName: Test Framework
-  author:
-    name: 
-    email: 
-    url: 
-  category: Unity Test Framework
-  type: assets
-  description: Test framework for running Edit mode and Play mode tests in Unity.
-  errors: []
-  versions:
-    all:
-    - 0.0.4-preview
-    - 0.0.29-preview
-    - 1.0.0
-    - 1.0.7
-    - 1.0.9
-    - 1.0.11
-    - 1.0.12
-    - 1.0.13
-    - 1.0.14
-    - 1.0.16
-    - 1.0.17
-    - 1.0.18
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    - 1.1.5
-    - 1.1.8
-    - 1.1.9
-    - 1.1.11
-    - 1.1.13
-    - 1.1.14
-    - 1.1.16
-    - 1.1.18
-    - 1.1.19
-    - 1.1.20
-    - 1.1.22
-    - 1.1.24
-    - 1.1.26
-    - 1.1.27
-    - 1.1.29
-    - 1.1.30
-    - 1.1.31
-    - 1.1.33
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4
-    - 2.0.1-exp.1
-    - 2.0.1-exp.2
-    - 2.0.1-pre.12
-    - 2.0.1-pre.18
-    compatible:
-    - 1.3.9
-    - 1.4.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4
-    - 2.0.1-exp.1
-    - 2.0.1-exp.2
-    - 2.0.1-pre.12
-    - 2.0.1-pre.18
-    recommended: 1.3.9
-    deprecated: []
-  dependencies:
-  - name: com.unity.ext.nunit
-    version: 2.0.3
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - Test
-  - TestFramework
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638283169810000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.3/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: 5c8a1448cee4d7607be0d60dceb66703b0cfe016
-    path: 
-  unityLifecycle:
-    version: 1.3.9
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"- By using the editor command line new argument `-randomOrderSeed
-    x` you can run the tests in a randomized order, where x is an integer different
-    from 0. If a new test is added in the project the random order passing the same
-    seed will be kept, and the new test will be placed in the random list accordigly.\n-
-    Fix for WebGL platform target to close the browser tab when the run is completed.
-    \n- Added TestFileReferences.json to be generated on build step of the player,
-    so can be consumed later by Test runners to enrich data for run part."}'
-  assetStore:
-    productId: 
 - packageId: com.unity.timeline@1.8.6
   testable: 0
   isDirectDependency: 1
@@ -848,266 +956,6 @@ m_ResolvedPackages:
     when editing a Timeline that is an instance of a prefab and a bound `Animator`
     is destroyed ([TB-222](https://issuetracker.unity3d.com/issues/timeline-missingreferenceexceptions-when-undoing-add-animator-from-timeline))\n-
     Removed warnings due to obsolete analytics API."}'
-  assetStore:
-    productId: 
-- packageId: com.unity.ugui@2.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 2.0.0
-  source: 2
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.ugui@2.0.0"
-  assetPath: Packages/com.unity.ugui
-  name: com.unity.ugui
-  displayName: Unity UI
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: "Unity UI is a set of tools for developing user interfaces for games
-    and applications. It is a GameObject-based UI system that uses Components and
-    the Game View to arrange, position, and style user interfaces. \u200B You cannot
-    use Unity UI to create or change user interfaces in the Unity Editor."
-  errors: []
-  versions:
-    all:
-    - 2.0.0
-    - 3.0.0-exp.1
-    - 3.0.0-exp.3
-    - 3.0.0-exp.4
-    compatible:
-    - 2.0.0
-    - 3.0.0-exp.1
-    - 3.0.0-exp.3
-    recommended: 2.0.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  keywords:
-  - UI
-  - ugui
-  - Unity UI
-  - Canvas
-  - TextMeshPro
-  - TextMesh Pro
-  - Text
-  - TMP
-  - SDF
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 2.0.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.visualscripting@1.8.0
-  testable: 0
-  isDirectDependency: 1
-  version: 1.8.0
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.visualscripting@1.8.0"
-  assetPath: Packages/com.unity.visualscripting
-  name: com.unity.visualscripting
-  displayName: Visual Scripting
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: tool
-  description: 'Visual scripting is a workflow that uses visual, node-based graphs
-    to design behaviors rather than write lines of C# script.
-
-
-    Enabling artists,
-    designers and programmers alike, visual scripting can be used to design final
-    logic, quickly create prototypes, iterate on gameplay and create custom nodes
-    to help streamline collaboration.
-
-
-    Visual scripting is compatible with third-party
-    APIs, including most packages, assets and custom libraries.'
-  errors: []
-  versions:
-    all:
-    - 1.5.0
-    - 1.5.1-pre.3
-    - 1.5.1-pre.5
-    - 1.5.1
-    - 1.5.2
-    - 1.6.0-pre.3
-    - 1.6.0
-    - 1.6.1
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.5
-    - 1.7.6
-    - 1.7.7
-    - 1.7.8
-    - 1.8.0-pre.1
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
-    - 1.9.2
-    - 1.9.4
-    compatible:
-    - 1.8.0
-    - 1.9.0
-    - 1.9.1
-    - 1.9.2
-    - 1.9.4
-    recommended: 1.8.0
-    deprecated:
-    - 1.8.0-pre.1
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 2.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638060044680000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
-    revision: 0de66378b19e990494d98f39ecc2b6aa5ac65351
-    path: 
-  unityLifecycle:
-    version: 1.8.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.modules.accessibility@1.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.0
-  source: 2
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.modules.accessibility@1.0.0"
-  assetPath: Packages/com.unity.modules.accessibility
-  name: com.unity.modules.accessibility
-  displayName: Accessibility
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: module
-  description: 'The Accessibility module includes utilities to facilitate the development
-    of accessible user experiences in Unity. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.AccessibilityModule.html'
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    compatible:
-    - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 1.0.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
   assetStore:
     productId: 
 - packageId: com.unity.modules.ai@1.0.0
@@ -3333,6 +3181,148 @@ m_ResolvedPackages:
   upmReserved: 
   assetStore:
     productId: 
+- packageId: com.unity.test-framework@1.3.9
+  testable: 0
+  isDirectDependency: 0
+  version: 1.3.9
+  source: 1
+  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
+    - UnityChoBo\\Library\\PackageCache\\com.unity.test-framework@1.3.9"
+  assetPath: Packages/com.unity.test-framework
+  name: com.unity.test-framework
+  displayName: Test Framework
+  author:
+    name: 
+    email: 
+    url: 
+  category: Unity Test Framework
+  type: assets
+  description: Test framework for running Edit mode and Play mode tests in Unity.
+  errors: []
+  versions:
+    all:
+    - 0.0.4-preview
+    - 0.0.29-preview
+    - 1.0.0
+    - 1.0.7
+    - 1.0.9
+    - 1.0.11
+    - 1.0.12
+    - 1.0.13
+    - 1.0.14
+    - 1.0.16
+    - 1.0.17
+    - 1.0.18
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3
+    - 1.1.5
+    - 1.1.8
+    - 1.1.9
+    - 1.1.11
+    - 1.1.13
+    - 1.1.14
+    - 1.1.16
+    - 1.1.18
+    - 1.1.19
+    - 1.1.20
+    - 1.1.22
+    - 1.1.24
+    - 1.1.26
+    - 1.1.27
+    - 1.1.29
+    - 1.1.30
+    - 1.1.31
+    - 1.1.33
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 2.0.1-exp.1
+    - 2.0.1-exp.2
+    - 2.0.1-pre.12
+    - 2.0.1-pre.18
+    compatible:
+    - 1.3.9
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 2.0.1-exp.1
+    - 2.0.1-exp.2
+    - 2.0.1-pre.12
+    - 2.0.1-pre.18
+    recommended: 1.3.9
+    deprecated: []
+  dependencies:
+  - name: com.unity.ext.nunit
+    version: 2.0.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ext.nunit
+    version: 2.0.5
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - Test
+  - TestFramework
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638283169810000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.test-framework@1.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+    revision: 5c8a1448cee4d7607be0d60dceb66703b0cfe016
+    path: 
+  unityLifecycle:
+    version: 1.3.9
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"- By using the editor command line new argument `-randomOrderSeed
+    x` you can run the tests in a randomized order, where x is an integer different
+    from 0. If a new test is added in the project the random order passing the same
+    seed will be kept, and the new test will be placed in the random list accordigly.\n-
+    Fix for WebGL platform target to close the browser tab when the run is completed.
+    \n- Added TestFileReferences.json to be generated on build step of the player,
+    so can be consumed later by Test runners to enrich data for run part."}'
+  assetStore:
+    productId: 
 - packageId: com.unity.ext.nunit@2.0.5
   testable: 0
   isDirectDependency: 0
@@ -3408,1296 +3398,81 @@ m_ResolvedPackages:
   upmReserved: '{"changelog":"- Fixing bug for InstanceID as struct changes"}'
   assetStore:
     productId: 
-- packageId: com.unity.2d.animation@10.1.1
+- packageId: com.unity.ugui@2.0.0
   testable: 0
   isDirectDependency: 0
-  version: 10.1.1
-  source: 1
+  version: 2.0.0
+  source: 2
   resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.animation@10.1.1"
-  assetPath: Packages/com.unity.2d.animation
-  name: com.unity.2d.animation
-  displayName: 2D Animation
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: 2D Animation provides all the necessary tooling and runtime components
-    for skeletal animation using Sprites.
-  errors: []
-  versions:
-    all:
-    - 1.0.15-preview.1
-    - 1.0.15-preview.2
-    - 1.0.15-preview.3
-    - 1.0.15-preview.4
-    - 1.0.15-preview.5
-    - 1.0.16-preview
-    - 1.0.16-preview.1
-    - 1.0.16-preview.2
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0-preview.3
-    - 2.1.0-preview.1
-    - 2.1.0-preview.2
-    - 2.1.0-preview.4
-    - 2.1.0-preview.5
-    - 2.1.0-preview.7
-    - 2.2.0-preview.1
-    - 2.2.0-preview.4
-    - 2.2.0-preview.5
-    - 2.2.1-preview.1
-    - 2.2.1-preview.2
-    - 3.0.2
-    - 3.0.3
-    - 3.0.4
-    - 3.0.5
-    - 3.0.6
-    - 3.0.8
-    - 3.1.0
-    - 3.1.1
-    - 3.2.1
-    - 3.2.2
-    - 3.2.3
-    - 3.2.4
-    - 3.2.5
-    - 3.2.6
-    - 3.2.9
-    - 3.2.10
-    - 3.2.11
-    - 3.2.13
-    - 3.2.14
-    - 3.2.15
-    - 3.2.16
-    - 3.2.17
-    - 3.2.18
-    - 4.0.0
-    - 4.0.1
-    - 4.1.0
-    - 4.1.1
-    - 4.2.1
-    - 4.2.2
-    - 4.2.3
-    - 4.2.4
-    - 4.2.5
-    - 4.2.6
-    - 4.2.8
-    - 5.0.0
-    - 5.0.1
-    - 5.0.2
-    - 5.0.3
-    - 5.0.4
-    - 5.0.5
-    - 5.0.6
-    - 5.0.7
-    - 5.0.8
-    - 5.0.9
-    - 5.0.10
-    - 5.1.0
-    - 5.1.1
-    - 5.2.0
-    - 5.2.1
-    - 5.2.3
-    - 5.2.4
-    - 5.2.6
-    - 5.2.7
-    - 6.0.0-pre.1
-    - 6.0.0-pre.2
-    - 6.0.1
-    - 6.0.3
-    - 6.0.4
-    - 6.0.5
-    - 6.0.7
-    - 7.0.0-pre.2
-    - 7.0.0-pre.3
-    - 7.0.0
-    - 7.0.1
-    - 7.0.2
-    - 7.0.3
-    - 7.0.4
-    - 7.0.5
-    - 7.0.6
-    - 7.0.7
-    - 7.0.8
-    - 7.0.9
-    - 7.0.10
-    - 7.0.11
-    - 7.0.12
-    - 7.0.13
-    - 7.1.0
-    - 8.0.0-pre.3
-    - 8.0.0-pre.4
-    - 8.0.0
-    - 8.0.1
-    - 8.0.2
-    - 8.0.3
-    - 8.0.4
-    - 8.0.5
-    - 9.0.0-pre.1
-    - 9.0.0-pre.3
-    - 9.0.0
-    - 9.0.1
-    - 9.0.2
-    - 9.0.3
-    - 9.0.4
-    - 9.1.0
-    - 10.0.0-pre.1
-    - 10.0.0-pre.2
-    - 10.0.0
-    - 10.0.1
-    - 10.0.2
-    - 10.0.3
-    - 10.1.0
-    - 10.1.1
-    compatible:
-    - 10.1.1
-    recommended: 10.1.1
-    deprecated: []
-  dependencies:
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.collections
-    version: 1.2.4
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.12
-  - name: com.unity.collections
-    version: 1.2.4
-  - name: com.unity.test-framework
-    version: 1.3.9
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  keywords:
-  - 2d
-  - animation
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638446279230000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.animation@10.1/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: de1d2b0a924b0621324b0cfe0fcbef92f03bd2c2
-    path: 
-  unityLifecycle:
-    version: 10.1.1
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Added\n- Support for automatic weight generation
-    in the Skinning Editor for ARM64 editors. (case DANB-550)\n\n### Fixed\n- Sprite
-    Resolver previews not visible after editor regained focus. (case DANB-565)\n-
-    Sprite Skin is not deformed in the Editor after exiting the playmode if the domain
-    reload is disabled. (case DANB-573)"}'
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.pixel-perfect@5.0.3
-  testable: 0
-  isDirectDependency: 0
-  version: 5.0.3
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.pixel-perfect@5.0.3"
-  assetPath: Packages/com.unity.2d.pixel-perfect
-  name: com.unity.2d.pixel-perfect
-  displayName: 2D Pixel Perfect
+    - UnityChoBo\\Library\\PackageCache\\com.unity.ugui@2.0.0"
+  assetPath: Packages/com.unity.ugui
+  name: com.unity.ugui
+  displayName: Unity UI
   author:
     name: 
     email: 
     url: 
   category: 
-  type: tool
-  description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera component
-    which ensures your pixel art remains crisp and clear at different resolutions,
-    and stable in motion.
-
-
-    It is a single component that makes all the calculations
-    needed to scale the viewport with resolution changes, removing the hassle from
-    the user. The user can adjust the definition of the pixel art rendered within
-    the camera viewport through the component settings, as well preview any changes
-    immediately in Game view by using the Run in Edit Mode feature.'
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview
-    - 1.0.1-preview
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.1.0
-    - 3.0.0
-    - 3.0.1
-    - 3.0.2
-    - 4.0.0
-    - 4.0.1
-    - 5.0.0-pre.1
-    - 5.0.0-pre.2
-    - 5.0.0
-    - 5.0.1
-    - 5.0.2
-    - 5.0.3
-    compatible:
-    - 5.0.3
-    recommended: 5.0.3
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - pixel
-  - perfect
-  - 2D
-  - sprite
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638023910590000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 6dea8ac5bd6953acd64f1ac9d470912954b0c015
-    path: 
-  unityLifecycle:
-    version: 5.0.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.psdimporter@9.0.2
-  testable: 0
-  isDirectDependency: 0
-  version: 9.0.2
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.psdimporter@9.0.2"
-  assetPath: Packages/com.unity.2d.psdimporter
-  name: com.unity.2d.psdimporter
-  displayName: 2D PSD Importer
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
-    file format. The ScriptedImporter is currently targeted for users who wants to
-    create multi Sprite character animation using Unity 2D Animation Package.
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.1.0-preview.1
-    - 1.1.0-preview.3
-    - 1.2.0-preview.1
-    - 1.2.0-preview.3
-    - 1.2.0-preview.4
-    - 2.0.2
-    - 2.0.3
-    - 2.0.4
-    - 2.0.5
-    - 2.0.7
-    - 2.1.0
-    - 2.1.3
-    - 2.1.4
-    - 2.1.5
-    - 2.1.6
-    - 2.1.8
-    - 2.1.9
-    - 2.1.10
-    - 2.1.11
-    - 3.0.0
-    - 3.1.1
-    - 3.1.3
-    - 3.1.4
-    - 3.1.5
-    - 3.1.6
-    - 3.1.7
-    - 4.0.0
-    - 4.0.1
-    - 4.0.2
-    - 4.1.0
-    - 4.1.1
-    - 4.1.2
-    - 4.1.3
-    - 4.2.0
-    - 4.3.0
-    - 4.3.1
-    - 5.0.0-pre.1
-    - 5.0.0-pre.2
-    - 5.0.1
-    - 5.0.3
-    - 5.0.4
-    - 5.0.6
-    - 6.0.0-pre.2
-    - 6.0.0-pre.3
-    - 6.0.0-pre.4
-    - 6.0.0
-    - 6.0.1
-    - 6.0.2
-    - 6.0.3
-    - 6.0.4
-    - 6.0.5
-    - 6.0.6
-    - 6.0.7
-    - 6.0.8
-    - 6.0.9
-    - 7.0.0-pre.3
-    - 7.0.0-pre.4
-    - 7.0.0
-    - 7.0.1
-    - 7.0.2
-    - 7.0.3
-    - 8.0.0-pre.1
-    - 8.0.0-pre.3
-    - 8.0.0
-    - 8.0.1
-    - 8.0.2
-    - 8.0.3
-    - 8.0.4
-    - 9.0.0-pre.1
-    - 9.0.0-pre.2
-    - 9.0.0
-    - 9.0.1
-    - 9.0.2
-    - 9.0.3
-    compatible:
-    - 9.0.2
-    - 9.0.3
-    recommended: 9.0.3
-    deprecated: []
-  dependencies:
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.12
-  keywords:
-  - 2d
-  - psdimporter
-  - assetimporter
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638446279250000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.psdimporter@9.0/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: de1d2b0a924b0621324b0cfe0fcbef92f03bd2c2
-    path: 
-  unityLifecycle:
-    version: 9.0.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Provide custom packing override for users
-    to override to address DANB-526. (Case DANB-526)\n- Fixed layers are not shown
-    in LayerImportSettings after unselecting all layers and applying. (Case DANB-569)"}'
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.sprite@1.0.0
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.0
-  source: 2
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0"
-  assetPath: Packages/com.unity.2d.sprite
-  name: com.unity.2d.sprite
-  displayName: 2D Sprite
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
   type: 
-  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
-    like pivot, borders and Physics shape
+  description: "Unity UI is a set of tools for developing user interfaces for games
+    and applications. It is a GameObject-based UI system that uses Components and
+    the Game View to arrange, position, and style user interfaces. \u200B You cannot
+    use Unity UI to create or change user interfaces in the Unity Editor."
   errors: []
   versions:
     all:
-    - 1.0.0
-    compatible:
-    - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - 2d
-  - sprite
-  - sprite editor window
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 1.0.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.spriteshape@10.0.3
-  testable: 0
-  isDirectDependency: 0
-  version: 10.0.3
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.spriteshape@10.0.3"
-  assetPath: Packages/com.unity.2d.spriteshape
-  name: com.unity.2d.spriteshape
-  displayName: 2D SpriteShape
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: SpriteShape Runtime & Editor Package contains the tooling and the
-    runtime component that allows you to create very organic looking spline based
-    2D worlds. It comes with intuitive configurator and a highly performant renderer.
-  errors: []
-  versions:
-    all:
-    - 1.0.10-preview.2
-    - 1.0.11-preview
-    - 1.0.12-preview
-    - 1.0.12-preview.1
-    - 1.0.14-preview.2
-    - 2.0.0-preview.4
-    - 2.0.0-preview.5
-    - 2.0.0-preview.7
-    - 2.0.0-preview.8
-    - 2.0.0-preview.9
-    - 2.1.0-preview.2
-    - 2.1.0-preview.6
-    - 2.1.0-preview.7
-    - 2.1.0-preview.10
-    - 2.1.0-preview.11
-    - 3.0.1
-    - 3.0.2
-    - 3.0.4
-    - 3.0.5
-    - 3.0.6
-    - 3.0.7
-    - 3.0.8
-    - 3.0.9
-    - 3.0.10
-    - 3.0.11
-    - 3.0.12
-    - 3.0.13
-    - 3.0.14
-    - 3.0.15
-    - 3.0.16
-    - 3.0.17
-    - 3.0.18
-    - 4.0.0
-    - 4.0.1
-    - 4.0.2
-    - 4.0.3
-    - 4.1.0
-    - 4.1.1
-    - 4.1.2
-    - 4.1.3
-    - 4.1.4
-    - 4.1.5
-    - 5.0.0
-    - 5.0.1
-    - 5.0.2
-    - 5.1.0
-    - 5.1.1
-    - 5.1.2
-    - 5.1.3
-    - 5.1.4
-    - 5.1.5
-    - 5.1.6
-    - 5.1.7
-    - 5.2.0
-    - 5.3.0
-    - 6.0.0-pre.1
-    - 6.0.0-pre.2
-    - 6.0.0
-    - 6.0.1
-    - 6.0.2
-    - 7.0.0-pre.2
-    - 7.0.0-pre.3
-    - 7.0.0
-    - 7.0.2
-    - 7.0.3
-    - 7.0.4
-    - 7.0.5
-    - 7.0.6
-    - 7.0.7
-    - 8.0.0-pre.4
-    - 8.0.0-pre.5
-    - 8.0.0
-    - 8.0.1
-    - 9.0.0-pre.1
-    - 9.0.0
-    - 9.0.1
-    - 9.0.2
-    - 10.0.0-pre.1
-    - 10.0.0-pre.2
-    - 10.0.0
-    - 10.0.1
-    - 10.0.2
-    - 10.0.3
-    - 10.0.4
-    compatible:
-    - 10.0.3
-    - 10.0.4
-    recommended: 10.0.4
-    deprecated: []
-  dependencies:
-  - name: com.unity.mathematics
-    version: 1.1.0
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.12
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  keywords:
-  - 2d
-  - shape
-  - spriteshape
-  - smartsprite
-  - spline
-  - terrain2d
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638446279270000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.spriteshape@10.0/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: de1d2b0a924b0621324b0cfe0fcbef92f03bd2c2
-    path: 
-  unityLifecycle:
-    version: 10.0.3
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- DANB-316 Update obsolete API usage.\n-
-    DANB-554 Prevent Crash on DynamicHeapAllocator::Deallocate when changing SpriteShapeController
-    splineDetail value through Script to 1\n- DANB-545 Fix rendering artefacts when
-    using Variant Atlas for SpriteShape"}'
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.tilemap@1.0.0
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.0
-  source: 2
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.tilemap@1.0.0"
-  assetPath: Packages/com.unity.2d.tilemap
-  name: com.unity.2d.tilemap
-  displayName: 2D Tilemap Editor
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: 
-  description: 2D Tilemap Editor is a package that contains editor functionalities
-    for editing Tilemaps.
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    compatible:
-    - 1.0.0
-    recommended: 1.0.0
-    deprecated: []
-  dependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  keywords:
-  - 2d
-  - Tilemap
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 1.0.0
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.tilemap.extras@4.0.2
-  testable: 0
-  isDirectDependency: 0
-  version: 4.0.2
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.tilemap.extras@4.0.2"
-  assetPath: Packages/com.unity.2d.tilemap.extras
-  name: com.unity.2d.tilemap.extras
-  displayName: 2D Tilemap Extras
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: '2D Tilemap Extras is a package that contains extra scripts for use
-    with 2D Tilemap features in Unity. These include custom Tiles and Brushes for
-    the Tilemap feature.
-
-
-    The following are included in the package:
-
-    Brushes:
-    GameObject Brush, Group Brush, Line Brush, Random Brush
-
-    Tiles: Animated
-    Tile, Rule Tile, Rule Override Tile
-
-    Other: Grid Information, Custom Rules
-    for Rule Tile'
-  errors: []
-  versions:
-    all:
-    - 1.5.0-preview
-    - 1.6.0-preview.1
-    - 1.6.1-preview
-    - 1.6.2-preview
-    - 1.6.3-preview
-    - 1.6.4-preview
-    - 1.7.0-preview
-    - 1.8.0-preview
-    - 1.8.1-preview
-    - 1.8.2-preview
-    - 1.8.3-preview
-    - 1.8.4-preview
-    - 2.0.0-pre.1
-    - 2.0.0-pre.2
     - 2.0.0
-    - 2.2.0
-    - 2.2.1
-    - 2.2.2
-    - 2.2.3
-    - 2.2.4
-    - 2.2.5
-    - 2.2.6
-    - 2.2.7
-    - 3.0.0
-    - 3.0.1
-    - 3.0.2
-    - 3.0.3
-    - 3.1.0
-    - 3.1.1
-    - 3.1.2
-    - 4.0.0-pre.1
-    - 4.0.0-pre.2
-    - 4.0.0-pre.3
-    - 4.0.0
-    - 4.0.1
-    - 4.0.2
+    - 3.0.0-exp.1
+    - 3.0.0-exp.3
+    - 3.0.0-exp.4
     compatible:
-    - 4.0.2
-    recommended: 4.0.2
+    - 2.0.0
+    - 3.0.0-exp.1
+    - 3.0.0-exp.3
+    recommended: 2.0.0
     deprecated: []
   dependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.physics2d
-    version: 1.0.0
-  - name: com.unity.2d.tilemap
-    version: 1.0.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
   - name: com.unity.modules.ui
     version: 1.0.0
   - name: com.unity.modules.imgui
     version: 1.0.0
-  - name: com.unity.modules.jsonserialize
+  resolvedDependencies:
+  - name: com.unity.modules.ui
     version: 1.0.0
-  - name: com.unity.modules.hierarchycore
+  - name: com.unity.modules.imgui
     version: 1.0.0
-  - name: com.unity.ugui
+  keywords:
+  - UI
+  - ugui
+  - Unity UI
+  - Canvas
+  - TextMeshPro
+  - TextMesh Pro
+  - Text
+  - TMP
+  - SDF
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
     version: 2.0.0
-  keywords:
-  - 2d
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638294344990000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@4.0/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/2d-extras.git
-    revision: 21a24803135ec4fbe47be9ccd27fb06e47d06d88
-    path: 
-  unityLifecycle:
-    version: 4.0.2
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- [GameObjectBrush] Use cell offset to determine
-    location of GameObject when painting and erasing"}'
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.aseprite@1.1.1
-  testable: 0
-  isDirectDependency: 0
-  version: 1.1.1
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.aseprite@1.1.1"
-  assetPath: Packages/com.unity.2d.aseprite
-  name: com.unity.2d.aseprite
-  displayName: 2D Aseprite Importer
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: 2D Aseprite Importer is a package which enables the import of .aseprite
-    files from the Pixel Art tool Aseprite.
-  errors: []
-  versions:
-    all:
-    - 1.0.0-pre.1
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
-    - 1.0.0
-    - 1.0.1
-    - 1.1.0
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    compatible:
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3
-    recommended: 1.1.3
-    deprecated: []
-  dependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.2d.common
-    version: 6.0.6
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.2d.common
-    version: 9.0.4
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.12
-  keywords:
-  - 2d
-  - Aseprite
-  - Pixel
-  - Art
-  - assetimporter
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638415153370000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.aseprite@1.1/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/AsepriteImporter.git
-    revision: 4c5ce5be19fca25f82112eb80561965bc91c72c2
-    path: 
-  unityLifecycle:
-    version: 1.1.1
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed an issue where the Sprite Editor
-    could be opened even though there were no valid texture to open it with.\n- Fixed
-    an issue where the importer would not generate a square power of two texture
-    for compressions which needs it (pvrtc).\n- Fixed an issue where changes to linked
-    cells would not be taken into account when reimporting."}'
-  assetStore:
-    productId: 
-- packageId: com.unity.2d.common@9.0.4
-  testable: 0
-  isDirectDependency: 0
-  version: 9.0.4
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.2d.common@9.0.4"
-  assetPath: Packages/com.unity.2d.common
-  name: com.unity.2d.common
-  displayName: 2D Common
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: assets
-  description: 2D Common is a package that contains shared functionalities that are
-    used by most of the other 2D packages.
-  errors: []
-  versions:
-    all:
-    - 1.0.9-preview.1
-    - 1.0.9-preview.2
-    - 1.0.10-preview
-    - 1.0.11-preview.1
-    - 1.1.0-preview.1
-    - 1.1.0-preview.2
-    - 1.2.0-preview.1
-    - 2.0.1
-    - 2.0.2
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 3.0.0
-    - 3.0.1
-    - 4.0.0
-    - 4.0.1
-    - 4.0.2
-    - 4.0.3
-    - 4.0.4
-    - 4.1.0
-    - 4.2.0
-    - 4.2.1
-    - 5.0.0-pre.1
-    - 5.0.0-pre.2
-    - 5.0.0
-    - 6.0.0-pre.2
-    - 6.0.0-pre.3
-    - 6.0.0-pre.4
-    - 6.0.0
-    - 6.0.1
-    - 6.0.2
-    - 6.0.3
-    - 6.0.4
-    - 6.0.5
-    - 6.0.6
-    - 6.0.7
-    - 7.0.0-pre.3
-    - 7.0.0-pre.4
-    - 7.0.0
-    - 7.0.1
-    - 7.0.2
-    - 7.0.3
-    - 8.0.0-pre.1
-    - 8.0.0-pre.2
-    - 8.0.0
-    - 8.0.1
-    - 8.0.2
-    - 9.0.0-pre.1
-    - 9.0.0-pre.2
-    - 9.0.0
-    - 9.0.1
-    - 9.0.2
-    - 9.0.3
-    - 9.0.4
-    compatible:
-    - 9.0.4
-    recommended: 9.0.4
-    deprecated: []
-  dependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.1.0
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.4
-  resolvedDependencies:
-  - name: com.unity.2d.sprite
-    version: 1.0.0
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.uielements
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.hierarchycore
-    version: 1.0.0
-  - name: com.unity.modules.animation
-    version: 1.0.0
-  - name: com.unity.burst
-    version: 1.8.12
-  keywords:
-  - 2d
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638446279190000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.2d.common@9.0/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: de1d2b0a924b0621324b0cfe0fcbef92f03bd2c2
-    path: 
-  unityLifecycle:
-    version: 9.0.4
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Changed\n- Internal changed to use public shortcut
-    API."}'
-  assetStore:
-    productId: 
-- packageId: com.unity.mathematics@1.2.6
-  testable: 0
-  isDirectDependency: 0
-  version: 1.2.6
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.mathematics@1.2.6"
-  assetPath: Packages/com.unity.mathematics
-  name: com.unity.mathematics
-  displayName: Mathematics
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: Unity's C# SIMD math library providing vector types and math functions
-    with a shader like syntax.
-  errors: []
-  versions:
-    all:
-    - 0.0.12-preview.2
-    - 0.0.12-preview.5
-    - 0.0.12-preview.8
-    - 0.0.12-preview.10
-    - 0.0.12-preview.11
-    - 0.0.12-preview.13
-    - 0.0.12-preview.17
-    - 0.0.12-preview.19
-    - 0.0.12-preview.20
-    - 1.0.0-preview.1
-    - 1.0.1
-    - 1.1.0-preview.1
-    - 1.1.0
-    - 1.2.1
-    - 1.2.4
-    - 1.2.5
-    - 1.2.6
-    - 1.3.1
-    - 1.3.2
-    compatible:
-    - 1.2.6
-    - 1.3.1
-    - 1.3.2
-    recommended: 1.2.6
-    deprecated: []
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637841876140000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: f110c8c230d253654afed153569030a587cc7557
-    path: 
-  unityLifecycle:
-    version: 1.2.6
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -4708,385 +3483,5 @@ m_ResolvedPackages:
     hash: 
     revision: 
   upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.collections@1.2.4
-  testable: 0
-  isDirectDependency: 0
-  version: 1.2.4
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.collections@1.2.4"
-  assetPath: Packages/com.unity.collections
-  name: com.unity.collections
-  displayName: Collections
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: A C# collections library providing data structures that can be used
-    in jobs, and optimized by Burst compiler.
-  errors: []
-  versions:
-    all:
-    - 0.0.9-preview.1
-    - 0.0.9-preview.2
-    - 0.0.9-preview.3
-    - 0.0.9-preview.4
-    - 0.0.9-preview.5
-    - 0.0.9-preview.6
-    - 0.0.9-preview.7
-    - 0.0.9-preview.8
-    - 0.0.9-preview.9
-    - 0.0.9-preview.10
-    - 0.0.9-preview.11
-    - 0.0.9-preview.12
-    - 0.0.9-preview.13
-    - 0.0.9-preview.14
-    - 0.0.9-preview.15
-    - 0.0.9-preview.16
-    - 0.0.9-preview.17
-    - 0.0.9-preview.18
-    - 0.0.9-preview.19
-    - 0.0.9-preview.20
-    - 0.1.0-preview
-    - 0.1.1-preview
-    - 0.2.0-preview.13
-    - 0.3.0-preview.0
-    - 0.4.0-preview.6
-    - 0.5.0-preview.9
-    - 0.5.1-preview.11
-    - 0.5.2-preview.8
-    - 0.6.0-preview.9
-    - 0.7.0-preview.2
-    - 0.7.1-preview.3
-    - 0.8.0-preview.5
-    - 0.9.0-preview.5
-    - 0.9.0-preview.6
-    - 0.11.0-preview.17
-    - 0.12.0-preview.13
-    - 0.14.0-preview.16
-    - 0.15.0-preview.21
-    - 0.17.0-preview.18
-    - 1.0.0-pre.3
-    - 1.0.0-pre.5
-    - 1.0.0-pre.6
-    - 1.1.0
-    - 1.2.3-pre.1
-    - 1.2.3
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 1.5.1
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    - 2.1.0-pre.11
-    - 2.1.0-pre.18
-    - 2.1.1
-    - 2.1.4
-    - 2.2.0
-    - 2.2.1
-    - 2.3.0-exp.1
-    - 2.3.0-pre.3
-    - 2.4.0-exp.2
-    - 2.4.0-pre.2
-    - 2.4.0-pre.5
-    - 2.4.0
-    compatible:
-    - 1.2.4
-    - 1.3.1
-    - 1.4.0
-    - 1.5.1
-    - 2.1.0-exp.4
-    - 2.1.0-pre.2
-    - 2.1.0-pre.6
-    - 2.1.0-pre.11
-    - 2.1.0-pre.18
-    - 2.1.1
-    - 2.1.4
-    - 2.2.0
-    - 2.2.1
-    - 2.3.0-exp.1
-    - 2.3.0-pre.3
-    - 2.4.0-exp.2
-    - 2.4.0-pre.2
-    - 2.4.0-pre.5
-    - 2.4.0
-    recommended: 1.2.4
-    deprecated: []
-  dependencies:
-  - name: com.unity.burst
-    version: 1.6.6
-  - name: com.unity.test-framework
-    version: 1.1.31
-  resolvedDependencies:
-  - name: com.unity.burst
-    version: 1.8.12
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.test-framework
-    version: 1.3.9
-  - name: com.unity.ext.nunit
-    version: 2.0.5
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  keywords:
-  - dots
-  - collections
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637908244640000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/dots.git
-    revision: 32d153034bea0703098263469b88c73619422782
-    path: 
-  unityLifecycle:
-    version: 1.2.4
-    nextVersion: 2.1.0-pre.6
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: 
-  assetStore:
-    productId: 
-- packageId: com.unity.burst@1.8.12
-  testable: 0
-  isDirectDependency: 0
-  version: 1.8.12
-  source: 1
-  resolvedPath: "C:\\Users\\\uC5FC\uC131\uD658\\Documents\\GitHub\\UnityCHOBO\\project
-    - UnityChoBo\\Library\\PackageCache\\com.unity.burst@1.8.12"
-  assetPath: Packages/com.unity.burst
-  name: com.unity.burst
-  displayName: Burst
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: assets
-  description: Burst is a compiler that translates from IL/.NET bytecode to highly
-    optimized native code using LLVM.
-  errors: []
-  versions:
-    all:
-    - 0.2.4-preview.5
-    - 0.2.4-preview.7
-    - 0.2.4-preview.11
-    - 0.2.4-preview.12
-    - 0.2.4-preview.13
-    - 0.2.4-preview.14
-    - 0.2.4-preview.15
-    - 0.2.4-preview.16
-    - 0.2.4-preview.17
-    - 0.2.4-preview.18
-    - 0.2.4-preview.19
-    - 0.2.4-preview.20
-    - 0.2.4-preview.21
-    - 0.2.4-preview.22
-    - 0.2.4-preview.23
-    - 0.2.4-preview.24
-    - 0.2.4-preview.25
-    - 0.2.4-preview.30
-    - 0.2.4-preview.31
-    - 0.2.4-preview.33
-    - 0.2.4-preview.34
-    - 0.2.4-preview.37
-    - 0.2.4-preview.41
-    - 0.2.4-preview.45
-    - 0.2.4-preview.48
-    - 0.2.4-preview.50
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.0-preview.4
-    - 1.1.1
-    - 1.1.2
-    - 1.1.3-preview.3
-    - 1.2.0-preview.1
-    - 1.2.0-preview.5
-    - 1.2.0-preview.6
-    - 1.2.0-preview.8
-    - 1.2.0-preview.9
-    - 1.2.0-preview.10
-    - 1.2.0-preview.11
-    - 1.2.0-preview.12
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.3.0-preview.1
-    - 1.3.0-preview.2
-    - 1.3.0-preview.3
-    - 1.3.0-preview.4
-    - 1.3.0-preview.5
-    - 1.3.0-preview.6
-    - 1.3.0-preview.7
-    - 1.3.0-preview.8
-    - 1.3.0-preview.9
-    - 1.3.0-preview.10
-    - 1.3.0-preview.11
-    - 1.3.0-preview.12
-    - 1.3.0-preview.13
-    - 1.3.0
-    - 1.3.1
-    - 1.3.2
-    - 1.3.3
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.9
-    - 1.4.0-pre.1
-    - 1.4.0-preview.1
-    - 1.4.0-preview.2
-    - 1.4.0-preview.3
-    - 1.4.0-preview.4
-    - 1.4.0-preview.5
-    - 1.4.1-pre.1
-    - 1.4.1-pre.2
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.4.4-preview.1
-    - 1.4.4-preview.2
-    - 1.4.4
-    - 1.4.5
-    - 1.4.6
-    - 1.4.7
-    - 1.4.8
-    - 1.4.9
-    - 1.4.11
-    - 1.5.0-pre.3
-    - 1.5.0-pre.4
-    - 1.5.0-pre.5
-    - 1.5.0
-    - 1.5.1
-    - 1.5.2
-    - 1.5.3
-    - 1.5.4
-    - 1.5.5
-    - 1.5.6-preview.1
-    - 1.5.6
-    - 1.6.0-pre.2
-    - 1.6.0-pre.3
-    - 1.6.0-pre.4
-    - 1.6.0
-    - 1.6.1
-    - 1.6.2
-    - 1.6.3
-    - 1.6.4
-    - 1.6.5
-    - 1.6.6
-    - 1.7.0-pre.1
-    - 1.7.0
-    - 1.7.1
-    - 1.7.2
-    - 1.7.3
-    - 1.7.4
-    - 1.8.0-pre.1
-    - 1.8.0-pre.2
-    - 1.8.0
-    - 1.8.1
-    - 1.8.2
-    - 1.8.3
-    - 1.8.4
-    - 1.8.7
-    - 1.8.8
-    - 1.8.9
-    - 1.8.10
-    - 1.8.11
-    - 1.8.12
-    - 1.8.13
-    - 1.8.14
-    compatible:
-    - 1.8.12
-    - 1.8.13
-    - 1.8.14
-    recommended: 1.8.14
-    deprecated: []
-  dependencies:
-  - name: com.unity.mathematics
-    version: 1.2.1
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.2.6
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  entitlements:
-    licensingModel: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 638406469710000000
-  documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
-  hasRepository: 1
-  repository:
-    type: git
-    url: git@github.cds.internal.unity3d.com:unity/burst
-    revision: a18fd968a92da11c38d1edd157e68ad9a490e67b
-    path: 
-  unityLifecycle:
-    version: 1.8.12
-    nextVersion: 
-    recommendedVersion: 
-    isDeprecated: 0
-    deprecationMessage: 
-  isDeprecated: 0
-  deprecationMessage: 
-  git:
-    hash: 
-    revision: 
-  upmReserved: '{"changelog":"### Fixed\n- Fixed the managed fallback for bursts
-    intrinsic functions `cvt_ss2si`, `cvtss_si32`, and `cvtss_si64` to follow midpoint
-    rounding standard of nearest even.\n- Fixed an issue where use of certain intrinsics
-    could cause a compile error even if properly guarded by the appropriate `IsXXXSupported`
-    property.\n- If an exception is thrown from burst compiled code in the Editor
-    on Windows there was potential for certain callee saved registers to be corrupted. 
-    In order to fix this ( editor only - player builds are unaffected), we now save
-    some additional context on each entry point.\n- Fixed burst not differentiating
-    between overloaded generic functions such as T foo(int val) and T foo(T val)
-    when the function calls are foo(1); foo<int>(1). Burst would previously only
-    compile the T foo(T val) function.\n- Fixed android builds throwing a NullReferenceException.\n-
-    Fixed arithmetic and bitwise negation on native integers.\n- Fixed an issue where
-    underflows of nint and nuint at compile time would lead to incorrect code.\n-
-    Burst recompiles assemblies due to hashes mismatching because of the way assembly
-    defines are combined into the hash.\n- Fixed constant SHUFFLE function not seen
-    as a constant when called indirectly through a `FunctionPointer`\n\n### Added\n\n###
-    Removed\n\n### Changed\n- Update default LLVM to version 16\n\n### Known Issues"}'
   assetStore:
     productId: 
