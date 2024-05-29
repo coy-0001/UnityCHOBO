@@ -889,9 +889,11 @@ m_ResolvedPackages:
     - 1.8.4
     - 1.8.5
     - 1.8.6
+    - 1.8.7
     compatible:
     - 1.8.6
-    recommended: 1.8.6
+    - 1.8.7
+    recommended: 1.8.7
     deprecated: []
   dependencies:
   - name: com.unity.modules.director
